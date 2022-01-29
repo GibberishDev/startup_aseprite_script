@@ -1,5 +1,3 @@
-light_bg_color = Color{r=255,g=200,b=90,a=255}
-dark_bg_color = Color{r=20,g=0,b=40,a=255}
 template_ray_dark_path = "startup_templates/shrray_tmplt_dark.png"
 template_ray_light_path = "startup_templates/shrray_tmplt_light.png"
 template_smol_dark_path = "startup_templates/dark_smol.png"
