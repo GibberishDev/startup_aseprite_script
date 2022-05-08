@@ -8,3 +8,6 @@
 # Credit
 * Shrink ray challenge templates are from Pixel Overload:
   <br>[Youtube link](https://www.youtube.com/c/PixelOverloadChannel) - [Discord link](https://discord.gg/yQQ3ZRCyWn) - [Shrink Ray Playlist](https://www.youtube.com/playlist?list=PLFLRQZXTN0Bh_txUgg_TuiAFlCw51I2DG)
+
+# Suggest
+Dont see some really crucial template you want to add to script? open an issue on github or message me In discord __*CheeseshireCat#9606*__ or in my <a href="https://discord.gg/bhAnEEXUfV"> discord server</a>
