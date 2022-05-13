@@ -51,8 +51,9 @@ function __main__()
     elseif data.template == "Isometric canvas - light" then change_selected_template(7)
     else print("ERROR - Nonexistent template value")
     end
+    spr:setPalette(Palette(1))
+    new_layer = spr:newLayer()
   end
-  new_layer = spr:newLayer()
 end
 
 function change_selected_template(id)
